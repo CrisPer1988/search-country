@@ -61,6 +61,7 @@ a {
         img {
             position: relative;
             top: 0px;
+            width: 200px;
         }
     .tittle {
         top: 15px;
@@ -70,7 +71,7 @@ a {
     .imput {
         position: absolute;
         width: 150px;
-        top: 100px;
+        top: 50px;
         
     }
 
